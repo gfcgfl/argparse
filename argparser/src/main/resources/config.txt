@@ -1,0 +1,7 @@
+#arg   #type  #description
+-l Boolean miaoshu1
+-p Integer miaoshu2
+-d String miaoshu3
+-h String miaoshu4
+-i IntegerList miaoshu5
+-s StringList miaoshu6
